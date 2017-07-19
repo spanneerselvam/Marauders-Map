@@ -17,7 +17,7 @@ if input2 == "hufflepuff":
   print("Congratulations {}!".format(name))
   print("You have come across the mobile version of 'Hogwarts, A History' by Bathilda Bagshot. This is a book concerning Hogwarts School of Witchcraft and Wizardry and its history. Enjoy at your pleasure.")
 if input2 == "slytherin":
-  print("Mr. Moony presents his compliments to {} and begs {} to keep their abnormally large nose out of other people's business".format(name))
+  print("Mr. Moony presents his compliments to {} and begs {} to keep their abnormally large nose out of other people's business".format(name,name))
   print("Mr. Prongs agrees with Mr. Moony and would like to add that {} is an ugly git".format(name))
   print("Mr. Padfoot would like to register his astonishment that an idiot like that was even accepted to Hogwarts")
-  print("Mr. Wormtail bids {} good day, and advises {}} to wash their hair, the slime-ball".format(name))
+  print("Mr. Wormtail bids {} good day, and advises {} to wash their hair, the slime-ball".format(name, name))
